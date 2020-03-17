@@ -9,7 +9,7 @@ The **topics** include, but not limited to:
 -	Emerging technologies in the classroom
 -	Targeting 21st century skills
 
-Submissions will be reviewed by the workshop organizers based on relevance to the workshop and the potential for contributing to discussions. Accepted submissions will become the basis of workshop discussions. 
+Submissions will be reviewed by the workshop organizers based on relevance to the workshop and the potential for contributing to discussions. Accepted submissions will become the basis of workshop discussions and need to be presented as posters. See [Program](https://sabaci.github.io/EdTechEvalWS/program.html) page for details.
 
 At least one author of each accepted submission must attend the workshop and all participants must register for both the workshop and the main conference.
 
