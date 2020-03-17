@@ -1,4 +1,3 @@
-```markdown
 ## Workshop on
 # Evaluation of Emerging Educational Technologies in the Classroom
 
@@ -16,19 +15,3 @@ Between the fields of Educational Technology and Human-Computer Interaction, the
 ### Themes of the Workshop
 - Emerging technologies in the classroom
 - Targeting 21st century skills
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sabaci/EdTechEvalWS.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
