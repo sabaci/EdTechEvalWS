@@ -1,5 +1,5 @@
 ## Workshop Program
-
+---
 Time | Activity
 ----------- | ------------
 1:00 - 1:05pm | Organizer introductions
@@ -13,6 +13,7 @@ Time | Activity
 3:45 - 4:00pm | Groups presentations
 4:00 - 4:25pm | Workshop summary and discussion
 4:25 - 4:30pm | Farewell
+---
 
 ### After the Workshop
 
