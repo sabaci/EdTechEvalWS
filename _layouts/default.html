@@ -25,6 +25,12 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="{{ github.home_url }}" class="btn">Home</a>
+      <a href="{{ github.updates_url }}" class="btn">Important Dates</a>
+      <a href="{{ github.submissions_url }}" class="btn">Call for Submissions</a>
+      <a href="{{ github.program_url }}" class="btn">Program</a>
+      <a href="{{ github.organizers_url }}" class="btn">Organizers</a>
+      <a href="{{ github.contact_url }}" class="btn">Contact</a>
     </header>
 
     <main id="content" class="main-content" role="main">
