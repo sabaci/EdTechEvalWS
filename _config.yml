@@ -3,3 +3,10 @@ description: Workshop as part of IDC2020, June 21, London UK
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+github:
+  home_url: https://sabaci.github.io/EdTechEvalWS/
+  updates_url: https://sabaci.github.io/EdTechEvalWS/updates.md
+  submissions_url: https://sabaci.github.io/EdTechEvalWS/submissions.md
+  program_url: https://sabaci.github.io/EdTechEvalWS/program.md
+  organizers_url: https://sabaci.github.io/EdTechEvalWS/organizers.md
+  contact_url: https://sabaci.github.io/EdTechEvalWS/contact.md
