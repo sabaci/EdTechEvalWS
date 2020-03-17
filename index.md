@@ -1,4 +1,3 @@
-## Workshop on
 # Evaluation of Emerging Educational Technologies in the Classroom
 
 ### Motivation
