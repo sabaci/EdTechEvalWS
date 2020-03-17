@@ -5,7 +5,6 @@ This is a half-day workshop organised as part of the [IDC 2020](https://idc.acm.
 We invite participants to submit a 2-4 page paper following the [SIGCHI Extended Abstract format](https://idc.acm.org/2020/chi-proceedings-format/) on ongoing or planned research/practice projects and the evaluation challenges encountered or expected, and/or a discussion of an evaluation framework or method.
 
 The **topics** include, but not limited to: 
-
 -	Emerging technologies in the classroom
 -	Targeting 21st century skills
 
