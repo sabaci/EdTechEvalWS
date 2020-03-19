@@ -1,5 +1,10 @@
 # Evaluation of Emerging Technologies in the Classroom
 
+### Update from IDC 2020 in relation to Covid 19 (Coronavirus)
+*"The Interaction Design and Children 2020 is still scheduled to be held as planned. The safety and well-being of all conference participants is our priority. We are following updates on the situation from the World Health Organisation (WHO) and the Center for Disease Control (CDC). We urge all attendees to keep informed on risks, precautions, and symptoms to make educated decisions."*
+
+Please follow the main [conference cite (IDC2020)](https://idc.acm.org/2020/) for further updates.
+
 ### Motivation
 Educational policies are turning their focus from numeracy and literacy to targeting 21st century skills such as collaboration, creativity, content creation and digital literacies (Moger & Bagley, 2019; OECD, 2018). In parallel, educational technology innovation is increasingly moving beyond traditional software and hardware tools to include technologies such as augmented and virtual reality, social media, tangibles, robotics, and AI. While the evaluation of educational technology in the classroom has always been a challenge for researchers and practitioners, the shift in the technologies used and the skills targeted is posing even further logistical, ethical, social and methodological challenges (e.g. Da Silva et al., 2019; Regan & Jesse, 2018). This is especially true within the formal education and classroom context, as evaluating these new skills is an ongoing reflection. In alignment with the conference’s “designing for the future” theme, the aim of this workshop is to stimulate a discussion with the educational technology research community around the best practices and challenges of evaluation for such emerging educational technologies and the corresponding development goals in the classroom.
 
