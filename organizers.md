@@ -9,3 +9,5 @@
 [**Emeline Brulé**](http://www.sussex.ac.uk/profiles/461041) is a Lecturer in Product Design at University of Sussex, conducting participatory research at the crossroad of sociology and technology design.
 
 [**Megan Venn-Wycherley**](https://openlab.ncl.ac.uk/people/megan-venn-wycherley/) is a doctoral trainee at Open Lab, Newcastle University. Her research interests include exploring the role of university-school partnerships in computing education, and the design and delivery of physical computing curricula in the classroom.
+
+[**Daniel Lambton-Howard**](https://openlab.ncl.ac.uk/people/daniel-lambton-howard/) is a PhD candidate at Open Lab, Newcastle University. His research is focussed on the creative and gameful reuse of existing technologies and social media in support of education, peer support, and youth engagement.
