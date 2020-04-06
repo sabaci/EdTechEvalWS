@@ -1,7 +1,7 @@
 # Evaluation of Emerging Technologies in the Classroom
 
 ### Update from IDC 2020 in relation to Covid 19 (Coronavirus)
-*"The Interaction Design and Children 2020 is still scheduled to be held as planned. The safety and well-being of all conference participants is our priority. We are following updates on the situation from the World Health Organisation (WHO) and the Center for Disease Control (CDC). We urge all attendees to keep informed on risks, precautions, and symptoms to make educated decisions."*
+*"In consultation with the IDC SG chairs and the ACM we have decided not to hold the conference in London physically this year...In the coming weeks we will be posting new updates as we start to design the virtual edition of the conference. IDC is a close-knit community, committed to benefiting children. We will identify new ways to bring our community together virtually this year."*
 
 Please follow the main [conference cite (IDC2020)](https://idc.acm.org/2020/) for further updates.
 
