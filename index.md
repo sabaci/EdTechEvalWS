@@ -1,9 +1,9 @@
 # Evaluation of Emerging Technologies in the Classroom
 
 ### Update from IDC 2020 in relation to Covid 19 (Coronavirus)
-*"In consultation with the IDC SG chairs and the ACM we have decided not to hold the conference in London physically this year.
+*"In consultation with the IDC SG chairs and the ACM we have decided not to hold the conference in London physically this year.*
 
-...In the coming weeks we will be posting new updates as we start to design the virtual edition of the conference. IDC is a close-knit community, committed to benefiting children. We will identify new ways to bring our community together virtually this year."*
+*...In the coming weeks we will be posting new updates as we start to design the virtual edition of the conference. IDC is a close-knit community, committed to benefiting children. We will identify new ways to bring our community together virtually this year."*
 
 Please follow the main [conference cite (IDC2020)](https://idc.acm.org/2020/) for further updates.
 
