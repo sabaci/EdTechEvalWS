@@ -5,12 +5,12 @@ The ongoing COVID-19 pandemic has given us an opportunity to run a very differen
 - **Individual introductions:** We (workshop organizers) will post individual video introductions and encourage participants to do the same. Minimally, we will add participants' pictures and short bio (that they included in their submission) to the MS Teams channel; they can add the video intro to this.
 - **Virtual coffee break:** A synchronous/asynchronous chat channel will be available to all participants for off-topic conversation and networking.
 
-### Day 1: Workshop Activity - Read and Engage (on MS Teams)
+### Day 1 (June 18): Workshop Activity - Read and Engage (on MS Teams)
 - **‘Challenges’ Presentation:** We will hold a synchronous (live) presentation (morning time BST) on challenges associated with implementation and evaluation of emerging technologies in the classroom, incorporating the challenges identified from the paper submissions. While the participation in the real-time session is encouraged, it will be recorded and posted on MS Teams channel for everyone. Along with this presentation, the organizers will provide a list of challenges, which will be the basis for the participant interaction.
 - **Read and Engage:** Participants will be assigned one of the submissions and asked to choose another (or more than one) to review and comment on. While reading the chosen papers, the participants are asked to identify which challenge(s) the submission relates to, and add to the list if there is no match. In addition, they are asked to think of solutions (at least one) for the challenges. Participants are free to comment on other aspects of the submissions and the submission authors are encouraged to interact with others.
 - This activity will start with the ‘Challenges’ presentation and stay open for 2 days in order to allow all participants from various time zones two days of interaction.
 
-### Day 2: Conclusion (on MS Teams)
+### Day 2 (June 19): Conclusion (on MS Teams)
 On the second day (afternoon time BST), we will hold another **online live session** (recorded) to summarize the exchange on MS Team activity channel and post a written summary at the end of the second day to conclude the workshop. As participants may continue to post, the summary is to be updated when all the comments are in.
 
 ### After the Workshop
